@@ -1,0 +1,11 @@
+{% extends 'base.html' %}
+{% block title %}Post Waste - TakaSmart{% endblock %}
+{% block content %}
+<!-- Form for posting waste details goes here -->
+<form method="post" enctype="multipart/form-data">
+    <!-- Fields for posting waste -->
+    <input type="file" name="waste_image">
+    <input type="number" name="quantity" placeholder="Quantity in kg">
+    <button type="submit">Post</button>
+</form>
+{% endblock %}
