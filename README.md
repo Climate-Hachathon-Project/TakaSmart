@@ -14,6 +14,16 @@ Welscome to the Smart Waste Management System that Reduces help Landfills that e
 
 5. Joseph Edwin
 
+## TECHNOLOGIES USED:
+- Frontend:
+	- HTML5
+	- CSS 3
+	- React.js
+- Backend:
+	- Python
+	-Flask
+- Database:
+	-MySQL
 ## Solution
 Our solution addresses the issue of improper waste management which lead to degrading the surrounding environment.Through this application we are able to accomplish the following:
 - *Promote Recycling and Composting*
